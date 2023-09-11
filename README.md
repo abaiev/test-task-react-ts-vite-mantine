@@ -4,10 +4,13 @@
 This project is a test task for a job application. I have been given the following task.
 
 ```text
-1. I've attached a file to this job application called 'mockup.png'
+1. I've attached a file (see below) to this job application called 'mockup.png'
 2. Use React + Mantine + Vite framework to build a simple version of this mockup. It should take ~30 minutes to 1 hour to complete this.
 3. Submit a screenshot / video of what you built + the interaction. If it goes well, we'd love to hire you for this role.
 ```
+
+## Attached file for the test task (what should be done)
+![Attached File](https://github.com/abaiev/test-task-react-ts-vite-mantine/blob/master/task.png)
 
 ## Time Spent
 I spent approximately 1 hour and 40 minutes on this task. Please note that I was not previously familiar with the Mantine concept, which contributed to the additional time spent.
